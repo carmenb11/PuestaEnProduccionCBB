@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hola como estas
-=======
-Holiiias
-q pasa
->>>>>>> main
