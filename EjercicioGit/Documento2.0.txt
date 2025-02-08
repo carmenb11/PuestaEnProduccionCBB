@@ -1,2 +1,3 @@
 Desde la rama develop añado un nuevo fichero.
 Volvemos hacer un cambio desde la rama de develop.
+Desde la rama main nos hemos traído todos los cambio a la rama Persona 3 y volvemos a editar.
